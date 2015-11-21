@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:900);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+h1 {
+font-family: 'Source Code Pro', 'Arial', sans-serif;
+font-weight: 900;
+text-align: center;
+}
+
+p {
+font-family: 'Source Sans Pro', 'Arial Narrow', serif;
+text-align: center;;
+}
+
+div {
+padding-top: 10%;
+}
